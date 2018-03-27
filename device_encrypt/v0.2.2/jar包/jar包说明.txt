@@ -1,0 +1,2 @@
+1.将bcprov-jdk14-154.jar，Devices_encrypt.jar，sun.misc.BASE64Decoder.jar放到jmeter的lib/ext文件夹下
+2.使用local_policy.jar，US_export_policy.jar替换java的jdk1.8.0_66/jre/lib/security的local_policy.jar，US_export_policy.jar文件

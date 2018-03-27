@@ -1,0 +1,4 @@
+工具使用说明：
+1工具不需要安装python环境，可直接执行
+2在cmd控制台执行，进入到encrypt_util.exe文件所在路径，运行命令：encrypt_util.exe -kh key -d data
+3命令中的key值为产品的Product_Secret ,data为需要加密的内容，如果为字符串类型，data需要加"".
